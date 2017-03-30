@@ -7,3 +7,6 @@ git clone https://github.com/Sriprag/jsonparser.git
 cd jsonparser
 make
 ```
+### Notes
+
+Validates the json file in `infile`.
